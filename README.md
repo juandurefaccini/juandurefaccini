@@ -8,12 +8,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/juandurefaccini/juandurefaccini/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="200" src="https://sm.mashable.com/t/mashable_sea/news/e/everything/everything-coming-to-netflix-in-september_xezk.1200.png"  />
 
 ###
