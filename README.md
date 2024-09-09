@@ -6,6 +6,9 @@
   <img src="https://profile-counter.glitch.me/juandurefaccini/count.svg?"  />
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ###
 
 <img align="right" height="200" src="https://sm.mashable.com/t/mashable_sea/news/e/everything/everything-coming-to-netflix-in-september_xezk.1200.png"  />
